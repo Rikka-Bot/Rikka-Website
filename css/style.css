@@ -38,9 +38,6 @@ body nav ul li a {
 .fright {
   float:right;
 }
-button {
-    position:absolute; 
-}
 a {
   text-decoration: none;
 }

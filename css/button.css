@@ -4,8 +4,9 @@ body {
 }
 
 .text-box {
-  margin-left: 44vw;
-	/margin-top: 42vh;
+  /*display: flex*/
+  margin-left: 30vw;
+	margin-top: 3vh;
 }
 
 .btn:link,

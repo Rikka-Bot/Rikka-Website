@@ -11,9 +11,13 @@ p {
 }
 #image1 {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 50%;
+  width: 250px;
+  /*height: 200px*/
+  margin-left: 30vw;
+	margin-top: 3vh;
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  /*border-radius: 50%;*/
 }
 body nav ul {
   list-style: none;

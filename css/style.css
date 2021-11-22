@@ -29,12 +29,16 @@ body nav ul li {
 body nav ul li a {
   text-decoration: none;
 }
-.footer { 
-  position:absolute; 
-  bottom:0; 
-  width:100%;
-  text-align: center
+
+.footer {
+  text-align: center;
+  padding: 5px 6px;
+  color: #1fffff;
+  padding: 30px 30px;
+  bottom:0;
 }
+
+
 .aside { 
   width:200px;
   
